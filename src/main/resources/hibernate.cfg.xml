@@ -6,5 +6,14 @@
 
         <!--SQL dialect -->
         <property name="dialect">org.hibernate.dialect.H2Dialect</property>
+
+        <!--Adds database credentials -->
+        <property name="connection.username">sa</property>
+
+        <!-- Tells Hibernate to update the database schema automatically -->
+        <property name="hbm2ddl.auto">update</property>
+
+        <!--Add the Country class to the configuration as a mapped entity -->
+        <mapping class="com.teamtreehouse.model.Country" />
     </session-factory>
 </hibernate-configuration>
