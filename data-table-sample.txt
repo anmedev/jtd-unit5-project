@@ -1,6 +1,6 @@
 Country                             Internet Users          Literacy
 --------------------------------------------------------------------
-Afghanistan                                   5.90                --
+Afghanistan                     st              5.90                --
 Angola                                       19.10             70.78
 Azerbaijan                                   58.70             99.79
 Bahamas, The                                 72.00                --
